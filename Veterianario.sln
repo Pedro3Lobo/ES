@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animais", "Animais\Animais.csproj", "{9E53CEFC-10CE-411C-94CF-ECC3225F9C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinarioTest", "VeterinarioTest\VeterinarioTest.csproj", "{3246F793-977A-450D-B095-7BEE6B0C04A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E53CEFC-10CE-411C-94CF-ECC3225F9C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E53CEFC-10CE-411C-94CF-ECC3225F9C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E53CEFC-10CE-411C-94CF-ECC3225F9C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E53CEFC-10CE-411C-94CF-ECC3225F9C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3246F793-977A-450D-B095-7BEE6B0C04A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3246F793-977A-450D-B095-7BEE6B0C04A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3246F793-977A-450D-B095-7BEE6B0C04A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3246F793-977A-450D-B095-7BEE6B0C04A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B8E406-C1A4-44E0-AD52-4CDC7AC5466F}
+	EndGlobalSection
+EndGlobal

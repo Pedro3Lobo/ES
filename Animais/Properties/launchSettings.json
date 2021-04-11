@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Animais": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
